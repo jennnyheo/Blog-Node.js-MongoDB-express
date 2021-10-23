@@ -9,9 +9,11 @@ This is simple Blog (CRUD) width mongoDB, node.js
 npm dev start
 ```
 
-## files detail 
+## details 
 
 with EJS(Embedded JavaScript), made template of the blog. 
+Style with Bootstrap
+
 
 ## How it look like? 
 
